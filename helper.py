@@ -1,4 +1,4 @@
-#!/opt/conda/bin/python3.7
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
